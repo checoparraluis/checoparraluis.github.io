@@ -1,16 +1,16 @@
 # Site settings
-title: inc0gnit0
+title: Luis Parra
 description: Welcome to my Website
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iinc0gnit0.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://checoparraluis.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: inc0gnit0
+username: Hi, I'm Luis Parra
 user_description: I am InfoSec enthusiast and a wanna-be Software Engineer.
-user_title: InfoSec Enthusiast
-email: iinc0gnit0@pm.me
-twitter_username: iinc0git0
-github_username:  iinc0gnit0
+user_title: Data Analyst / Data Scientist
+email: ChecoParraLuis@gmail.com
+
+github_username:  checoparraluis
 #gplus_username:  lorem_ipsum
 
 # Google-analytics
